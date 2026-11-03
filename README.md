@@ -45,7 +45,7 @@
 
 ![Ubisoft](entreprise.jpg)
 
-(source de l'image : ...)
+(source de l'image : https://www.logo.wine/logo/Ubisoft)
 
 - Types de produits et de services : Jeux vidéo (PC, consoles, mobiles), contenu téléchargeable (DLC) et univers interactifs 3D.
 - Étapes de production : Idéation/recherche : Concept et mécaniques de jeu, analyse du public cible, prototypage rapide. / Préproduction : Document de conception (*Game Design Document*), direction artistique et prototype jouable.  / Production : Création des personnages, décors et sons, conception des niveaux (*level design*) et programmation.  /  Postproduction : Tests d'assurance qualité (QA), correction de bogues et équilibrage.  /  Opération : Correctifs, mises à jour et gestion de la communauté.
