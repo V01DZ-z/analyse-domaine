@@ -6,7 +6,7 @@
   - Exemple : Ma créativité s'exprime dans le cours d'illustration où je développe mon propre style visuel. Mon esprit de compétition se reflète dans l'esport : je suis classé Grandmaster sur Overwatch et j'ai remporté plusieurs tournois et LANs.
 - Mes faiblesses ou points à améliorer : J'ai parfois de la difficulté à communiquer avec les autres, particulièrement lorsqu'il s'agit de demander de l'aide. Cela peut me bloquer sur certaines tâches le temps que je trouve la solution par moi-même.
   - Exemple : Lorsque je rencontre une difficulté technique sur un travail, j'hésite à poser des questions et je préfère chercher la réponse seul, ce qui peut me faire perdre du temps.
-- Seul(e) ou en équipe : Je préfère travailler seul afin de me concentrer à mon propre rythme, utiliser mes propres méthodes et prendre des initiatives. En équipe, j'ai parfois tendance à procrastiner, sauf si personne ne prend les devants : je sais alors assumer le leadership.
+- Seul ou en équipe : Je préfère travailler seul afin de me concentrer à mon propre rythme, utiliser mes propres méthodes et prendre des initiatives. En équipe, j'ai parfois tendance à procrastiner, sauf si personne ne prend les devants : je sais alors assumer le leadership.
   - Pourquoi et exemple : Lors des discussions orales en anglais, bien que je n'aime pas parler devant les autres, j'ai pris l'initiative de lancer les échanges et de débloquer la situation parce que tout le monde hésitait à s'exprimer.
 - Plutôt technique ou créatif : Je me sens plus à l'aise dans les tâches créatives. Elles me permettent de créer un lien direct avec mes passions et de m'exprimer plus librement qu'avec des tâches purement techniques.
 
