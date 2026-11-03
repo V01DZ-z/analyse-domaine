@@ -2,7 +2,7 @@
 
 ## Découverte de soi
 
-- Mes forces : Ma créativité, ma curiosité et mon esprit de compétitif. Quand un sujet me passionne, je cherche toujours à tout comprendre et à me surpasser pour atteindre le meilleur niveau possible.
+- Mes forces : Ma créativité, ma curiosité et mon esprit compétitif. Quand un sujet me passionne, je cherche toujours à tout comprendre et à me surpasser pour atteindre le meilleur niveau possible.
   - Exemple : Ma créativité s'exprime dans le cours d'illustration où je développe mon propre style visuel. Mon esprit de compétition se reflète dans l'esport : je suis classé Grandmaster sur Overwatch et j'ai remporté plusieurs tournois et LANs.
 - Mes faiblesses ou points à améliorer : J'ai parfois de la difficulté à communiquer avec les autres, particulièrement lorsqu'il s'agit de demander de l'aide. Cela peut me bloquer sur certaines tâches le temps que je trouve la solution par moi-même.
   - Exemple : Lorsque je rencontre une difficulté technique sur un travail, j'hésite à poser des questions et je préfère chercher la réponse seul, ce qui peut me faire perdre du temps.
